@@ -1,0 +1,20 @@
+{
+  "name": "bower-fgoal",
+  "version": "1.0.1",
+  "authors": [
+    "sangcao <sangcao1003@gmail.com>"
+  ],
+  "description": "packages for web-fgoal",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/thanhsangcao/bower-fgoal.git",
+  "ignore": [
+    "README.md"
+  ],
+  "dependencies": {
+    "bower-fgoal": "*"
+  }
+}
